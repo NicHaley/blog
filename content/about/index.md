@@ -5,6 +5,6 @@ eleventyNavigation:
   order: 3
 ---
 
-# About Me
+# About
 
 I am a person that writes stuff.
